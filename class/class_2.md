@@ -226,6 +226,8 @@ printf(“%10.2f \n”,123.456789); // 왼쪽 정렬 ****123.46(*은 빈칸)
 ### scanf()
 
 ```c
+char code;
+float price;
 scanf(“%c %f”, &code, &price);
 ```
 * scanf(“Format string”, variable a, b, …); 
