@@ -9,7 +9,7 @@ Current/Most recent session:
 3. 이론
 4. Visual Studio 시도 ㄱㄱ
 
-1. 실습/프로그래밍 환경에 대해
+## 실습/프로그래밍 환경에 대해
 PuTTY? XShell? Visual Studio?
 
 ### 왜 아직도 Visual Studio를 사용하지 않지??
@@ -19,7 +19,7 @@ PuTTY? XShell? Visual Studio?
 [프로젝트 생성 방법 링크] (https://studyc.tistory.com/m/27) \
 [컴파일 방법 링크](https://dojang.io/mod/page/view.php?id=8)
 
-2. 랩 과제 질의응답 / 설명
+## 랩 과제 질의응답 / 설명
 **Lab 3-1**
 
 두 정수를 입력 받아 합과 평균 구하여 출력하는 프로그램을 작성하시오. \
@@ -59,7 +59,7 @@ void printResults (int quotient, int remainder)
 “calc.h” 와 “calc.c”에는 덧셈, 뺄셈, 곱셈, 나눗셈 함수를 작성
 
 
-3. 이론
+## 이론
 ### 연산자
 * 산술연산자
   * +,-, *, /, % 
