@@ -16,7 +16,7 @@ PuTTY? XShell? Visual Studio?
 > 그냥 제가 알려드리겠습니다 ㅎㅎ
 
 [다운로드 설명 링크](https://note0913.tistory.com/84) \
-[프로젝트 생성 방법 링크] (https://studyc.tistory.com/m/27) \
+[프로젝트 생성 방법 링크](https://studyc.tistory.com/m/27) \
 [컴파일 방법 링크](https://dojang.io/mod/page/view.php?id=8)
 
 ## 랩 과제 질의응답 / 설명
