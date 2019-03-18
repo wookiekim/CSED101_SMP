@@ -171,6 +171,7 @@ And(&&)
 Or (||) 
 
 |x|y|x\|\|y|
+|-|-|------|
 |False|False|False|
 |False|True|True|
 |True|False|True|
