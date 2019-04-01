@@ -152,13 +152,15 @@ if(비가 온다){
 
 **Truth Table:**
 
-Not(!) \
+Not(!)
+
 |x|!x|
 |-|--|
 |False|True|
 |True|False|
 
-And(&&) \
+And(&&) 
+
 |x|y|x&&y|
 |-|-|----|
 |False|False|False|
@@ -166,8 +168,10 @@ And(&&) \
 |True|False|False|
 |True|True|True|
 
-Or (||) \
+Or (||) 
+
 |x|y|x\|\|y|
+|-|-|------|
 |False|False|False|
 |False|True|True|
 |True|False|True|
