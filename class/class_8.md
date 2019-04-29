@@ -21,7 +21,7 @@ Current/Most recent session:
 ```
 |H| <-- char 'H'
 |H|\0| <-- string "H"
-|\0| <-- empty string "\0"
+|\0| <-- empty string ""
 
 char str[11];
 |G|o|o|d| |D|a|y|\0|?|?|
