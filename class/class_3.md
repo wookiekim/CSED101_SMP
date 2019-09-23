@@ -1,6 +1,6 @@
 # Class 3
 Current/Most recent session:
-> 2019/03/qq
+> 2019/09/24
 
 ## 개요
 
