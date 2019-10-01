@@ -1,6 +1,29 @@
 # Class 5
 Current/Most recent session:
-> 2019/04/01
+> 2019/10/01
+
+저번주 질문::주어진 숫자가 회문인지 판단하라
+```c
+#include<stdio.h>
+
+int main() {
+    int num = 1231;
+    int reverse = 0;
+    int save = num;
+    
+    while(num > 0){
+        reverse = reverse * 10 + num % 10;
+        num /= 10;
+    }
+    
+    if(reverse == save){
+        printf("Palindrome\n");
+    }
+    else printf("Not palindrome\n");
+    
+    return 0;
+}
+```
 
 ## 개요
 
