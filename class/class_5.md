@@ -127,7 +127,9 @@ int main(void)
        avg = (float)(sum)/3.0; 
        fprintf(outFile, "%d %.3f\n", sum, avg); 
     }
-
+    fclose(inFile);
+    fclose(outFile);
+    
     return 0;
 }
 ```
