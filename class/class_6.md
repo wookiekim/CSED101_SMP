@@ -1,6 +1,6 @@
 # Class 6
 Current/Most recent session:
-> 2019/04/08
+> 2019/10/08
 
 ## 개요
 
