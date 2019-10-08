@@ -1,6 +1,6 @@
 # Class 5
 Current/Most recent session:
-> 2019/10/01
+> 2019/10/08
 
 저번주 질문::주어진 숫자가 회문인지 판단하라
 ```c
