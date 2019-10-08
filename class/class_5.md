@@ -159,3 +159,7 @@ scanf(“%c”,&b);
 
 printf(“%d %c\n”, a, b);
 ```
+
+Recursion (재귀) 예시들:
+* [Link](https://www.w3resource.com/c-programming-exercises/recursion/index.php)
+* [Link2](https://codeforwin.org/2016/03/functions-programming-exercises-and-solutions-in-c.html)
