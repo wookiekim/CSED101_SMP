@@ -52,7 +52,7 @@ void (*fun_ptr)(int) = &fun;
 (*fun_ptr)(10);
 
 void (*FuncPtr)(int) = fun;
-fun_ptr(10);
+FuncPtr(10);
 ```
 
 ### Linked List
